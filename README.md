@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pandasaan
-- 👀 I craft & play Games
-- 🌱 I’m currently re-learning Unity
+- 👀 I make & play Games
+- 🌱 I’m currently working on some quirky games
 - 📫 reach me here - abhiraman@live.com
 
 <!---
